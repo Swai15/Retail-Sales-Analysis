@@ -28,3 +28,7 @@ This project is an unguided exploratory analysis where I worked with a retail sa
 
 - Leveraging high sales months which are May, October and December by running major promotions
 - September and March are the lowest months and could use some marketing campaigns and discounts to boost sales
+
+###
+
+Project [board](https://trello.com/b/FHG6gZmG/retail-store-da)
